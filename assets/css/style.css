@@ -18617,3 +18617,277 @@ marquee {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+/* Legal Pages CSS */
+/* ============================
+   Privacy Policy
+============================ */
+
+.privacy-policy-section {
+   background: #f7f8f3;
+}
+
+.privacy-intro {
+   max-width: 900px;
+   margin: 0 auto 55px;
+   text-align: center;
+}
+
+.privacy-subtitle {
+   display: inline-block;
+   margin-bottom: 14px;
+   font-size: 15px;
+   font-weight: 700;
+   line-height: 1;
+   text-transform: uppercase;
+   letter-spacing: 1.2px;
+   color: #5c7c32;
+}
+
+.privacy-intro h1 {
+   margin: 0 0 20px;
+   font-size: 48px;
+   line-height: 1.15;
+   font-weight: 700;
+   color: #17220f;
+}
+
+.privacy-intro p {
+   max-width: 780px;
+   margin: 0 auto;
+   font-size: 17px;
+   line-height: 1.75;
+   color: #5d6259;
+}
+
+.privacy-updated {
+   display: inline-flex;
+   align-items: center;
+   gap: 8px;
+   margin-top: 22px;
+   padding: 9px 16px;
+   border-radius: 50px;
+   background: #ffffff;
+   font-size: 14px;
+   font-weight: 600;
+   color: #4d5547;
+   box-shadow: 0 5px 20px rgba(26, 39, 17, 0.06);
+}
+
+
+/* Policy Grid */
+
+.privacy-policy-grid {
+   display: grid;
+   grid-template-columns: repeat(2, minmax(0, 1fr));
+   gap: 24px;
+}
+
+.privacy-policy-card {
+   display: flex;
+   align-items: flex-start;
+   gap: 20px;
+   height: 100%;
+   padding: 30px;
+   border: 1px solid #e3e7dd;
+   border-radius: 12px;
+   background: #ffffff;
+   transition: transform 0.3s ease, box-shadow 0.3s ease,
+      border-color 0.3s ease;
+}
+
+.privacy-policy-card:hover {
+   transform: translateY(-4px);
+   border-color: #cad5bb;
+   box-shadow: 0 15px 40px rgba(27, 43, 17, 0.08);
+}
+
+
+/* Icons */
+
+.privacy-card-icon {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex: 0 0 56px;
+   width: 56px;
+   height: 56px;
+   border-radius: 10px;
+   background: #edf3e4;
+   color: #5c7c32;
+   font-size: 22px;
+}
+
+
+/* Content */
+
+.privacy-card-content {
+   min-width: 0;
+}
+
+.privacy-card-content h2 {
+   margin: 0 0 12px;
+   font-size: 21px;
+   line-height: 1.35;
+   font-weight: 700;
+   color: #17220f;
+}
+
+.privacy-card-content p {
+   margin: 0;
+   font-size: 15px;
+   line-height: 1.75;
+   color: #62675e;
+}
+
+
+/* Contact Card */
+
+.privacy-contact-card {
+   grid-column: 1 / -1;
+   background: #17220f;
+   border-color: #17220f;
+}
+
+.privacy-contact-card:hover {
+   border-color: #17220f;
+}
+
+.privacy-contact-card .privacy-card-icon {
+   background: rgba(255, 255, 255, 0.1);
+   color: #ffffff;
+}
+
+.privacy-contact-card h2 {
+   color: #ffffff;
+}
+
+.privacy-contact-card p {
+   color: rgba(255, 255, 255, 0.75);
+}
+
+.privacy-contact-links {
+   display: flex;
+   flex-wrap: wrap;
+   gap: 12px 28px;
+   margin-top: 18px;
+}
+
+.privacy-contact-links a {
+   display: inline-flex;
+   align-items: center;
+   gap: 9px;
+   color: #ffffff;
+   font-size: 15px;
+   font-weight: 600;
+   text-decoration: none;
+   transition: opacity 0.3s ease;
+}
+
+.privacy-contact-links a:hover {
+   opacity: 0.8;
+}
+
+
+/* ============================
+   Tablet
+============================ */
+
+@media (max-width: 991px) {
+
+   .privacy-intro {
+      margin-bottom: 40px;
+   }
+
+   .privacy-intro h1 {
+      font-size: 40px;
+   }
+
+   .privacy-policy-card {
+      padding: 25px;
+   }
+}
+
+
+/* ============================
+   Mobile
+============================ */
+
+@media (max-width: 767px) {
+
+   .privacy-policy-section {
+      padding-top: 70px;
+      padding-bottom: 45px;
+   }
+
+   .privacy-intro {
+      margin-bottom: 35px;
+      text-align: left;
+   }
+
+   .privacy-intro h1 {
+      font-size: 32px;
+      line-height: 1.2;
+   }
+
+   .privacy-intro p {
+      font-size: 16px;
+   }
+
+   .privacy-updated {
+      margin-top: 18px;
+   }
+
+   .privacy-policy-grid {
+      grid-template-columns: 1fr;
+      gap: 18px;
+   }
+
+   .privacy-policy-card,
+   .privacy-contact-card {
+      grid-column: auto;
+   }
+
+   .privacy-policy-card {
+      padding: 22px;
+   }
+
+   .privacy-card-icon {
+      flex-basis: 50px;
+      width: 50px;
+      height: 50px;
+      font-size: 19px;
+   }
+
+   .privacy-card-content h2 {
+      font-size: 19px;
+   }
+
+   .privacy-contact-links {
+      flex-direction: column;
+      gap: 12px;
+   }
+}
+
+
+/* ============================
+   Small Mobile
+============================ */
+
+@media (max-width: 480px) {
+
+   .privacy-intro h1 {
+      font-size: 28px;
+   }
+
+   .privacy-policy-card {
+      flex-direction: column;
+      gap: 16px;
+      padding: 20px;
+   }
+
+   .privacy-contact-links a {
+      font-size: 14px;
+      word-break: break-word;
+   }
+}
