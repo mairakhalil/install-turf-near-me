@@ -10027,7 +10027,7 @@ p {
 .vl-main-menu ul > li .sub-menu {
   position: absolute;
   top: 105%;
-  width: 180px;
+  width: 260px;
   left: 0;
   background: var(--vkl-text-text-white);
   border-radius: 6px;
@@ -11461,7 +11461,7 @@ marquee {
     line-height: var(--vkl-specing-height40);
   }
 }
-.vl-hero-content-six .vl-section-title p {
+.vl-hero-content-six .vl-section-title p , .faq-para {
   color: var(--vkl-text-text-14);
   font-size: var(--vkl-font-size-font-s18);
   line-height: var(--vkl-specing-height26);
