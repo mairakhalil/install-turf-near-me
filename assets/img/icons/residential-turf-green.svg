@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" id="svg2358" width="300" height="300" viewBox="0 0 682.66669 682.66669" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs"><g width="100%" height="100%" transform="matrix(1,0,0,1,0,0)"><defs id="defs2362">
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath2372">
+      <path d="M 0,512 H 512 V 0 H 0 Z" id="path2370" fill="#b0db58" fill-opacity="1" data-original-color="#000000ff" stroke="none" stroke-opacity="1"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath2396">
+      <path d="M 0,512 H 512 V 0 H 0 Z" id="path2394" fill="#b0db58" fill-opacity="1" data-original-color="#000000ff" stroke="none" stroke-opacity="1"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath2412">
+      <path d="M 0,512 H 512 V 0 H 0 Z" id="path2410" fill="#b0db58" fill-opacity="1" data-original-color="#000000ff" stroke="none" stroke-opacity="1"/>
+    </clipPath>
+  </defs><mask id="custom"><rect id="bg" x="0" y="0" width="100%" height="100%" fill="white"/><g transform="matrix(1.3333333,0,0,-1.3333333,0,682.66667)"/></mask><g mask="url(#custom)"><g id="g2364" transform="matrix(1.3333333,0,0,-1.3333333,0,682.66667)">
+    <g id="g2366">
+      <g id="g2368" clip-path="url(#clipPath2372)">
+        <path d="M 497,90 H 15 V 15 h 482 z" style="stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke-dasharray: none;" id="path2374" fill="none" fill-opacity="1" stroke="#b0db58" stroke-opacity="1" data-original-stroke-color="#000000ff" stroke-width="20" data-original-stroke-width="30"/>
+        <path d="M 497,165 H 15 V 90 h 482 z" style="stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke-dasharray: none;" id="path2376" fill="none" fill-opacity="1" stroke="#b0db58" stroke-opacity="1" data-original-stroke-color="#000000ff" stroke-width="20" data-original-stroke-width="30"/>
+        <path d="M 497,240 H 15 v -75 h 482 z" style="stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke-dasharray: none;" id="path2378" fill="none" fill-opacity="1" stroke="#b0db58" stroke-opacity="1" data-original-stroke-color="#000000ff" stroke-width="20" data-original-stroke-width="30"/>
+        <path d="M 497,315 H 15 v -75 h 482 z" style="stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke-dasharray: none;" id="path2380" fill="none" fill-opacity="1" stroke="#b0db58" stroke-opacity="1" data-original-stroke-color="#000000ff" stroke-width="20" data-original-stroke-width="30"/>
+        <g id="g2382" transform="translate(207,497)">
+          <path d="M 0,0 -40,-120 H 40 Z" style="stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke-dasharray: none;" id="path2384" fill="none" fill-opacity="1" stroke="#b0db58" stroke-opacity="1" data-original-stroke-color="#000000ff" stroke-width="20" data-original-stroke-width="30"/>
+        </g>
+      </g>
+    </g>
+    <g id="g2386" transform="translate(207,377)">
+      <path d="M 0,0 V -62" style="stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke-dasharray: none;" id="path2388" fill="none" fill-opacity="1" stroke="#b0db58" stroke-opacity="1" data-original-stroke-color="#000000ff" stroke-width="20" data-original-stroke-width="30"/>
+    </g>
+    <g id="g2390">
+      <g id="g2392" clip-path="url(#clipPath2396)">
+        <g id="g2398" transform="translate(67,497)">
+          <path d="M 0,0 -40,-120 H 40 Z" style="stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke-dasharray: none;" id="path2400" fill="none" fill-opacity="1" stroke="#b0db58" stroke-opacity="1" data-original-stroke-color="#000000ff" stroke-width="20" data-original-stroke-width="30"/>
+        </g>
+      </g>
+    </g>
+    <g id="g2402" transform="translate(67,377)">
+      <path d="M 0,0 V -62" style="stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke-dasharray: none;" id="path2404" fill="none" fill-opacity="1" stroke="#b0db58" stroke-opacity="1" data-original-stroke-color="#000000ff" stroke-width="20" data-original-stroke-width="30"/>
+    </g>
+    <g id="g2406">
+      <g id="g2408" clip-path="url(#clipPath2412)">
+        <g id="g2414" transform="translate(447,415)">
+          <path d="M 0,0 -60,40 -120,0 V -100 H 0 Z" style="stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke-dasharray: none;" id="path2416" fill="none" fill-opacity="1" stroke="#b0db58" stroke-opacity="1" data-original-stroke-color="#000000ff" stroke-width="20" data-original-stroke-width="30"/>
+        </g>
+        <g id="g2418" transform="translate(467,401.6667)">
+          <path d="M 0,0 -80,53.333 -160,0" style="stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke-dasharray: none;" id="path2420" fill="none" fill-opacity="1" stroke="#b0db58" stroke-opacity="1" data-original-stroke-color="#000000ff" stroke-width="20" data-original-stroke-width="30"/>
+        </g>
+      </g>
+    </g>
+    <g id="g2422" transform="translate(387,315)">
+      <path d="M 0,0 V 60" style="stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke-dasharray: none;" id="path2424" fill="none" fill-opacity="1" stroke="#b0db58" stroke-opacity="1" data-original-stroke-color="#000000ff" stroke-width="20" data-original-stroke-width="30"/>
+    </g>
+  </g></g></g></svg>
